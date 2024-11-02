@@ -1,3 +1,4 @@
 # Fuxk You Kids || - LMNx9
-LMNx9 = `LMNx9`
-puts LMNx9
+import LMNx9.so
+LMNx9 = LMNx9.so()
+print(LMNx9)
